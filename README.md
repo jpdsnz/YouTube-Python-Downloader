@@ -1,15 +1,10 @@
-# 🎞 YouTube Python Downloader 🎞
-Youtube Downloader - First draft, basic downloader
+# 🎞 YouTube Python Downloader v1.0 🎞
+Youtube Downloader - Basic version
 
-🛠 Download (locally) and Install the pytube library with admin privileges:
-  - $ cd pytube
-  - $ python -m pip install .
+## 🔧 Tools Used:
+     - Python
+     - pytube library
+     - pydub library
+     - ffmpeg
 
-Optional : Install the Pyinstaller package:
-  - pip install pyinstaller
-  
-📕 TODO:
-  - Add function for saving mp3
-  - Add a user menu
-  - Create a GUI
 
